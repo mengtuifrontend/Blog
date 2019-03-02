@@ -14,6 +14,8 @@
 
 ## 文章目录
 
+[5. 本地存储方案介绍 —— 现有方案](https://github.com/mengtuifrontend/Blog/issues/5)
+
 [4. ECMAScript 略述](https://github.com/mengtuifrontend/Blog/issues/4)
 
 [3. 漫聊前端缓存](https://github.com/mengtuifrontend/Blog/issues/3)

@@ -14,8 +14,10 @@
 
 ## 文章目录
 
-[1. 认识 Markdown 语法](https://github.com/mengtuifrontend/Blog/issues/1)
+[4. ECMAScript 略述](https://github.com/mengtuifrontend/Blog/issues/4)
+
+[3. 漫聊前端缓存](https://github.com/mengtuifrontend/Blog/issues/3)
 
 [2. Chrome 的新功能预览 - TWA](https://github.com/mengtuifrontend/Blog/issues/2)
 
-[3. 漫聊前端缓存](https://github.com/mengtuifrontend/Blog/issues/3)
+[1. 认识 Markdown 语法](https://github.com/mengtuifrontend/Blog/issues/1)

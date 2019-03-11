@@ -14,6 +14,10 @@
 
 ## 文章目录
 
+[7. 了解css变量](https://github.com/mengtuifrontend/Blog/issues/7)
+
+[6. 本地存储方案介绍 —— KV Storage 介绍](https://github.com/mengtuifrontend/Blog/issues/6)
+
 [5. 本地存储方案介绍 —— 现有方案](https://github.com/mengtuifrontend/Blog/issues/5)
 
 [4. ECMAScript 略述](https://github.com/mengtuifrontend/Blog/issues/4)
